@@ -211,28 +211,3 @@ int main(){
 	return 0;
 
 }
-
-
-	/*
-	//1. and 1.2
-	int a = 660, b = 43;
-	int s, t;
-	int euclidean = EuclidGCD(a,b);
-	int extendedEuclidean = ExtendedEuclidGCD(a,b,s,t);
-	cout << "Euclidean Algorithm: \n";
-	cout << "gcd(" << a << "," << b <<") = " << euclidean << endl;
-	cout << "Extended Euclidean Algorithm: \n";
-	cout << "gcd(" << a << "," << b <<") = " << extendedEuclidean << endl;
-
-	//2.
-	cout << "Inverse Modulo: \n";
-	cout << InverseMod(b,a) << endl;
-
-	//3.
-
-	//4. Relative Prime
-	cout << "Relative prime: \n";
-	cout << RelativePrime(a) << endl;
-	*/
-
-
